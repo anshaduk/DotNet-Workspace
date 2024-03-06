@@ -1,0 +1,14 @@
+D:\DOT NET WORKOUTS\GreatestOf3NestedIfElse\GreatestOf3NestedIfElse\bin\Debug\net8.0\GreatestOf3NestedIfElse.exe
+D:\DOT NET WORKOUTS\GreatestOf3NestedIfElse\GreatestOf3NestedIfElse\bin\Debug\net8.0\GreatestOf3NestedIfElse.deps.json
+D:\DOT NET WORKOUTS\GreatestOf3NestedIfElse\GreatestOf3NestedIfElse\bin\Debug\net8.0\GreatestOf3NestedIfElse.runtimeconfig.json
+D:\DOT NET WORKOUTS\GreatestOf3NestedIfElse\GreatestOf3NestedIfElse\bin\Debug\net8.0\GreatestOf3NestedIfElse.dll
+D:\DOT NET WORKOUTS\GreatestOf3NestedIfElse\GreatestOf3NestedIfElse\bin\Debug\net8.0\GreatestOf3NestedIfElse.pdb
+D:\DOT NET WORKOUTS\GreatestOf3NestedIfElse\GreatestOf3NestedIfElse\obj\Debug\net8.0\GreatestOf3NestedIfElse.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET WORKOUTS\GreatestOf3NestedIfElse\GreatestOf3NestedIfElse\obj\Debug\net8.0\GreatestOf3NestedIfElse.AssemblyInfoInputs.cache
+D:\DOT NET WORKOUTS\GreatestOf3NestedIfElse\GreatestOf3NestedIfElse\obj\Debug\net8.0\GreatestOf3NestedIfElse.AssemblyInfo.cs
+D:\DOT NET WORKOUTS\GreatestOf3NestedIfElse\GreatestOf3NestedIfElse\obj\Debug\net8.0\GreatestOf3NestedIfElse.csproj.CoreCompileInputs.cache
+D:\DOT NET WORKOUTS\GreatestOf3NestedIfElse\GreatestOf3NestedIfElse\obj\Debug\net8.0\GreatestOf3NestedIfElse.dll
+D:\DOT NET WORKOUTS\GreatestOf3NestedIfElse\GreatestOf3NestedIfElse\obj\Debug\net8.0\refint\GreatestOf3NestedIfElse.dll
+D:\DOT NET WORKOUTS\GreatestOf3NestedIfElse\GreatestOf3NestedIfElse\obj\Debug\net8.0\GreatestOf3NestedIfElse.pdb
+D:\DOT NET WORKOUTS\GreatestOf3NestedIfElse\GreatestOf3NestedIfElse\obj\Debug\net8.0\GreatestOf3NestedIfElse.genruntimeconfig.cache
+D:\DOT NET WORKOUTS\GreatestOf3NestedIfElse\GreatestOf3NestedIfElse\obj\Debug\net8.0\ref\GreatestOf3NestedIfElse.dll

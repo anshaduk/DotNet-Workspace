@@ -1,0 +1,14 @@
+D:\DOT NET WORKOUTS\TypeConversion\TypeConversion\bin\Debug\net8.0\TypeConversion.exe
+D:\DOT NET WORKOUTS\TypeConversion\TypeConversion\bin\Debug\net8.0\TypeConversion.deps.json
+D:\DOT NET WORKOUTS\TypeConversion\TypeConversion\bin\Debug\net8.0\TypeConversion.runtimeconfig.json
+D:\DOT NET WORKOUTS\TypeConversion\TypeConversion\bin\Debug\net8.0\TypeConversion.dll
+D:\DOT NET WORKOUTS\TypeConversion\TypeConversion\bin\Debug\net8.0\TypeConversion.pdb
+D:\DOT NET WORKOUTS\TypeConversion\TypeConversion\obj\Debug\net8.0\TypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET WORKOUTS\TypeConversion\TypeConversion\obj\Debug\net8.0\TypeConversion.AssemblyInfoInputs.cache
+D:\DOT NET WORKOUTS\TypeConversion\TypeConversion\obj\Debug\net8.0\TypeConversion.AssemblyInfo.cs
+D:\DOT NET WORKOUTS\TypeConversion\TypeConversion\obj\Debug\net8.0\TypeConversion.csproj.CoreCompileInputs.cache
+D:\DOT NET WORKOUTS\TypeConversion\TypeConversion\obj\Debug\net8.0\TypeConversion.dll
+D:\DOT NET WORKOUTS\TypeConversion\TypeConversion\obj\Debug\net8.0\refint\TypeConversion.dll
+D:\DOT NET WORKOUTS\TypeConversion\TypeConversion\obj\Debug\net8.0\TypeConversion.pdb
+D:\DOT NET WORKOUTS\TypeConversion\TypeConversion\obj\Debug\net8.0\TypeConversion.genruntimeconfig.cache
+D:\DOT NET WORKOUTS\TypeConversion\TypeConversion\obj\Debug\net8.0\ref\TypeConversion.dll

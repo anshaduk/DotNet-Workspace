@@ -1,0 +1,14 @@
+D:\DOT NET WORKOUTS\EvenOddUsingIfElse\EvenOddUsingIfElse\bin\Debug\net8.0\EvenOddUsingIfElse.exe
+D:\DOT NET WORKOUTS\EvenOddUsingIfElse\EvenOddUsingIfElse\bin\Debug\net8.0\EvenOddUsingIfElse.deps.json
+D:\DOT NET WORKOUTS\EvenOddUsingIfElse\EvenOddUsingIfElse\bin\Debug\net8.0\EvenOddUsingIfElse.runtimeconfig.json
+D:\DOT NET WORKOUTS\EvenOddUsingIfElse\EvenOddUsingIfElse\bin\Debug\net8.0\EvenOddUsingIfElse.dll
+D:\DOT NET WORKOUTS\EvenOddUsingIfElse\EvenOddUsingIfElse\bin\Debug\net8.0\EvenOddUsingIfElse.pdb
+D:\DOT NET WORKOUTS\EvenOddUsingIfElse\EvenOddUsingIfElse\obj\Debug\net8.0\EvenOddUsingIfElse.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET WORKOUTS\EvenOddUsingIfElse\EvenOddUsingIfElse\obj\Debug\net8.0\EvenOddUsingIfElse.AssemblyInfoInputs.cache
+D:\DOT NET WORKOUTS\EvenOddUsingIfElse\EvenOddUsingIfElse\obj\Debug\net8.0\EvenOddUsingIfElse.AssemblyInfo.cs
+D:\DOT NET WORKOUTS\EvenOddUsingIfElse\EvenOddUsingIfElse\obj\Debug\net8.0\EvenOddUsingIfElse.csproj.CoreCompileInputs.cache
+D:\DOT NET WORKOUTS\EvenOddUsingIfElse\EvenOddUsingIfElse\obj\Debug\net8.0\EvenOddUsingIfElse.dll
+D:\DOT NET WORKOUTS\EvenOddUsingIfElse\EvenOddUsingIfElse\obj\Debug\net8.0\refint\EvenOddUsingIfElse.dll
+D:\DOT NET WORKOUTS\EvenOddUsingIfElse\EvenOddUsingIfElse\obj\Debug\net8.0\EvenOddUsingIfElse.pdb
+D:\DOT NET WORKOUTS\EvenOddUsingIfElse\EvenOddUsingIfElse\obj\Debug\net8.0\EvenOddUsingIfElse.genruntimeconfig.cache
+D:\DOT NET WORKOUTS\EvenOddUsingIfElse\EvenOddUsingIfElse\obj\Debug\net8.0\ref\EvenOddUsingIfElse.dll

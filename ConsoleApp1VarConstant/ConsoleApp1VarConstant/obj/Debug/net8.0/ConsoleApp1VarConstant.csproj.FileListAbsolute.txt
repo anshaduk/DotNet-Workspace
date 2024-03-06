@@ -1,0 +1,14 @@
+D:\DOT NET WORKOUTS\ConsoleApp1VarConstant\ConsoleApp1VarConstant\bin\Debug\net8.0\ConsoleApp1VarConstant.exe
+D:\DOT NET WORKOUTS\ConsoleApp1VarConstant\ConsoleApp1VarConstant\bin\Debug\net8.0\ConsoleApp1VarConstant.deps.json
+D:\DOT NET WORKOUTS\ConsoleApp1VarConstant\ConsoleApp1VarConstant\bin\Debug\net8.0\ConsoleApp1VarConstant.runtimeconfig.json
+D:\DOT NET WORKOUTS\ConsoleApp1VarConstant\ConsoleApp1VarConstant\bin\Debug\net8.0\ConsoleApp1VarConstant.dll
+D:\DOT NET WORKOUTS\ConsoleApp1VarConstant\ConsoleApp1VarConstant\bin\Debug\net8.0\ConsoleApp1VarConstant.pdb
+D:\DOT NET WORKOUTS\ConsoleApp1VarConstant\ConsoleApp1VarConstant\obj\Debug\net8.0\ConsoleApp1VarConstant.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET WORKOUTS\ConsoleApp1VarConstant\ConsoleApp1VarConstant\obj\Debug\net8.0\ConsoleApp1VarConstant.AssemblyInfoInputs.cache
+D:\DOT NET WORKOUTS\ConsoleApp1VarConstant\ConsoleApp1VarConstant\obj\Debug\net8.0\ConsoleApp1VarConstant.AssemblyInfo.cs
+D:\DOT NET WORKOUTS\ConsoleApp1VarConstant\ConsoleApp1VarConstant\obj\Debug\net8.0\ConsoleApp1VarConstant.csproj.CoreCompileInputs.cache
+D:\DOT NET WORKOUTS\ConsoleApp1VarConstant\ConsoleApp1VarConstant\obj\Debug\net8.0\ConsoleApp1VarConstant.dll
+D:\DOT NET WORKOUTS\ConsoleApp1VarConstant\ConsoleApp1VarConstant\obj\Debug\net8.0\refint\ConsoleApp1VarConstant.dll
+D:\DOT NET WORKOUTS\ConsoleApp1VarConstant\ConsoleApp1VarConstant\obj\Debug\net8.0\ConsoleApp1VarConstant.pdb
+D:\DOT NET WORKOUTS\ConsoleApp1VarConstant\ConsoleApp1VarConstant\obj\Debug\net8.0\ConsoleApp1VarConstant.genruntimeconfig.cache
+D:\DOT NET WORKOUTS\ConsoleApp1VarConstant\ConsoleApp1VarConstant\obj\Debug\net8.0\ref\ConsoleApp1VarConstant.dll

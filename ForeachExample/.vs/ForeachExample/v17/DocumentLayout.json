@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DOT NET WORKOUTS\\ForeachExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D3E8AD-87BF-427C-BDCF-F2A1DAA46E89}|ForeachExample\\ForeachExample.csproj|d:\\dot net workouts\\foreachexample\\foreachexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D3E8AD-87BF-427C-BDCF-F2A1DAA46E89}|ForeachExample\\ForeachExample.csproj|solutionrelative:foreachexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DOT NET WORKOUTS\\ForeachExample\\ForeachExample\\Program.cs",
+              "RelativeDocumentMoniker": "ForeachExample\\Program.cs",
+              "ToolTip": "D:\\DOT NET WORKOUTS\\ForeachExample\\ForeachExample\\Program.cs",
+              "RelativeToolTip": "ForeachExample\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAjwBIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T17:32:42.056Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

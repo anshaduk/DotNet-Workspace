@@ -1,0 +1,14 @@
+D:\DOT NET WORKOUTS\OperatorExample\OperatorExample\bin\Debug\net8.0\OperatorExample.exe
+D:\DOT NET WORKOUTS\OperatorExample\OperatorExample\bin\Debug\net8.0\OperatorExample.deps.json
+D:\DOT NET WORKOUTS\OperatorExample\OperatorExample\bin\Debug\net8.0\OperatorExample.runtimeconfig.json
+D:\DOT NET WORKOUTS\OperatorExample\OperatorExample\bin\Debug\net8.0\OperatorExample.dll
+D:\DOT NET WORKOUTS\OperatorExample\OperatorExample\bin\Debug\net8.0\OperatorExample.pdb
+D:\DOT NET WORKOUTS\OperatorExample\OperatorExample\obj\Debug\net8.0\OperatorExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET WORKOUTS\OperatorExample\OperatorExample\obj\Debug\net8.0\OperatorExample.AssemblyInfoInputs.cache
+D:\DOT NET WORKOUTS\OperatorExample\OperatorExample\obj\Debug\net8.0\OperatorExample.AssemblyInfo.cs
+D:\DOT NET WORKOUTS\OperatorExample\OperatorExample\obj\Debug\net8.0\OperatorExample.csproj.CoreCompileInputs.cache
+D:\DOT NET WORKOUTS\OperatorExample\OperatorExample\obj\Debug\net8.0\OperatorExample.dll
+D:\DOT NET WORKOUTS\OperatorExample\OperatorExample\obj\Debug\net8.0\refint\OperatorExample.dll
+D:\DOT NET WORKOUTS\OperatorExample\OperatorExample\obj\Debug\net8.0\OperatorExample.pdb
+D:\DOT NET WORKOUTS\OperatorExample\OperatorExample\obj\Debug\net8.0\OperatorExample.genruntimeconfig.cache
+D:\DOT NET WORKOUTS\OperatorExample\OperatorExample\obj\Debug\net8.0\ref\OperatorExample.dll

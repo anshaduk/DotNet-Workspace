@@ -1,0 +1,14 @@
+D:\DOT NET WORKOUTS\GreatestAmong4Ladder\GreatestAmong4Ladder\bin\Debug\net8.0\GreatestAmong4Ladder.exe
+D:\DOT NET WORKOUTS\GreatestAmong4Ladder\GreatestAmong4Ladder\bin\Debug\net8.0\GreatestAmong4Ladder.deps.json
+D:\DOT NET WORKOUTS\GreatestAmong4Ladder\GreatestAmong4Ladder\bin\Debug\net8.0\GreatestAmong4Ladder.runtimeconfig.json
+D:\DOT NET WORKOUTS\GreatestAmong4Ladder\GreatestAmong4Ladder\bin\Debug\net8.0\GreatestAmong4Ladder.dll
+D:\DOT NET WORKOUTS\GreatestAmong4Ladder\GreatestAmong4Ladder\bin\Debug\net8.0\GreatestAmong4Ladder.pdb
+D:\DOT NET WORKOUTS\GreatestAmong4Ladder\GreatestAmong4Ladder\obj\Debug\net8.0\GreatestAmong4Ladder.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET WORKOUTS\GreatestAmong4Ladder\GreatestAmong4Ladder\obj\Debug\net8.0\GreatestAmong4Ladder.AssemblyInfoInputs.cache
+D:\DOT NET WORKOUTS\GreatestAmong4Ladder\GreatestAmong4Ladder\obj\Debug\net8.0\GreatestAmong4Ladder.AssemblyInfo.cs
+D:\DOT NET WORKOUTS\GreatestAmong4Ladder\GreatestAmong4Ladder\obj\Debug\net8.0\GreatestAmong4Ladder.csproj.CoreCompileInputs.cache
+D:\DOT NET WORKOUTS\GreatestAmong4Ladder\GreatestAmong4Ladder\obj\Debug\net8.0\GreatestAmong4Ladder.dll
+D:\DOT NET WORKOUTS\GreatestAmong4Ladder\GreatestAmong4Ladder\obj\Debug\net8.0\refint\GreatestAmong4Ladder.dll
+D:\DOT NET WORKOUTS\GreatestAmong4Ladder\GreatestAmong4Ladder\obj\Debug\net8.0\GreatestAmong4Ladder.pdb
+D:\DOT NET WORKOUTS\GreatestAmong4Ladder\GreatestAmong4Ladder\obj\Debug\net8.0\GreatestAmong4Ladder.genruntimeconfig.cache
+D:\DOT NET WORKOUTS\GreatestAmong4Ladder\GreatestAmong4Ladder\obj\Debug\net8.0\ref\GreatestAmong4Ladder.dll

@@ -1,0 +1,14 @@
+D:\DOT NET WORKOUTS\MiddleAgeThreeLadder\MiddleAgeThreeLadder\bin\Debug\net8.0\MiddleAgeThreeLadder.exe
+D:\DOT NET WORKOUTS\MiddleAgeThreeLadder\MiddleAgeThreeLadder\bin\Debug\net8.0\MiddleAgeThreeLadder.deps.json
+D:\DOT NET WORKOUTS\MiddleAgeThreeLadder\MiddleAgeThreeLadder\bin\Debug\net8.0\MiddleAgeThreeLadder.runtimeconfig.json
+D:\DOT NET WORKOUTS\MiddleAgeThreeLadder\MiddleAgeThreeLadder\bin\Debug\net8.0\MiddleAgeThreeLadder.dll
+D:\DOT NET WORKOUTS\MiddleAgeThreeLadder\MiddleAgeThreeLadder\bin\Debug\net8.0\MiddleAgeThreeLadder.pdb
+D:\DOT NET WORKOUTS\MiddleAgeThreeLadder\MiddleAgeThreeLadder\obj\Debug\net8.0\MiddleAgeThreeLadder.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET WORKOUTS\MiddleAgeThreeLadder\MiddleAgeThreeLadder\obj\Debug\net8.0\MiddleAgeThreeLadder.AssemblyInfoInputs.cache
+D:\DOT NET WORKOUTS\MiddleAgeThreeLadder\MiddleAgeThreeLadder\obj\Debug\net8.0\MiddleAgeThreeLadder.AssemblyInfo.cs
+D:\DOT NET WORKOUTS\MiddleAgeThreeLadder\MiddleAgeThreeLadder\obj\Debug\net8.0\MiddleAgeThreeLadder.csproj.CoreCompileInputs.cache
+D:\DOT NET WORKOUTS\MiddleAgeThreeLadder\MiddleAgeThreeLadder\obj\Debug\net8.0\MiddleAgeThreeLadder.dll
+D:\DOT NET WORKOUTS\MiddleAgeThreeLadder\MiddleAgeThreeLadder\obj\Debug\net8.0\refint\MiddleAgeThreeLadder.dll
+D:\DOT NET WORKOUTS\MiddleAgeThreeLadder\MiddleAgeThreeLadder\obj\Debug\net8.0\MiddleAgeThreeLadder.pdb
+D:\DOT NET WORKOUTS\MiddleAgeThreeLadder\MiddleAgeThreeLadder\obj\Debug\net8.0\MiddleAgeThreeLadder.genruntimeconfig.cache
+D:\DOT NET WORKOUTS\MiddleAgeThreeLadder\MiddleAgeThreeLadder\obj\Debug\net8.0\ref\MiddleAgeThreeLadder.dll

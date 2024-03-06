@@ -1,0 +1,14 @@
+D:\DOT NET WORKOUTS\ConvertParseClassParseMethod\ConvertParseClassParseMethod\bin\Debug\net8.0\ConvertParseClassParseMethod.exe
+D:\DOT NET WORKOUTS\ConvertParseClassParseMethod\ConvertParseClassParseMethod\bin\Debug\net8.0\ConvertParseClassParseMethod.deps.json
+D:\DOT NET WORKOUTS\ConvertParseClassParseMethod\ConvertParseClassParseMethod\bin\Debug\net8.0\ConvertParseClassParseMethod.runtimeconfig.json
+D:\DOT NET WORKOUTS\ConvertParseClassParseMethod\ConvertParseClassParseMethod\bin\Debug\net8.0\ConvertParseClassParseMethod.dll
+D:\DOT NET WORKOUTS\ConvertParseClassParseMethod\ConvertParseClassParseMethod\bin\Debug\net8.0\ConvertParseClassParseMethod.pdb
+D:\DOT NET WORKOUTS\ConvertParseClassParseMethod\ConvertParseClassParseMethod\obj\Debug\net8.0\ConvertParseClassParseMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET WORKOUTS\ConvertParseClassParseMethod\ConvertParseClassParseMethod\obj\Debug\net8.0\ConvertParseClassParseMethod.AssemblyInfoInputs.cache
+D:\DOT NET WORKOUTS\ConvertParseClassParseMethod\ConvertParseClassParseMethod\obj\Debug\net8.0\ConvertParseClassParseMethod.AssemblyInfo.cs
+D:\DOT NET WORKOUTS\ConvertParseClassParseMethod\ConvertParseClassParseMethod\obj\Debug\net8.0\ConvertParseClassParseMethod.csproj.CoreCompileInputs.cache
+D:\DOT NET WORKOUTS\ConvertParseClassParseMethod\ConvertParseClassParseMethod\obj\Debug\net8.0\ConvertParseClassParseMethod.dll
+D:\DOT NET WORKOUTS\ConvertParseClassParseMethod\ConvertParseClassParseMethod\obj\Debug\net8.0\refint\ConvertParseClassParseMethod.dll
+D:\DOT NET WORKOUTS\ConvertParseClassParseMethod\ConvertParseClassParseMethod\obj\Debug\net8.0\ConvertParseClassParseMethod.pdb
+D:\DOT NET WORKOUTS\ConvertParseClassParseMethod\ConvertParseClassParseMethod\obj\Debug\net8.0\ConvertParseClassParseMethod.genruntimeconfig.cache
+D:\DOT NET WORKOUTS\ConvertParseClassParseMethod\ConvertParseClassParseMethod\obj\Debug\net8.0\ref\ConvertParseClassParseMethod.dll

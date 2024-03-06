@@ -1,0 +1,14 @@
+D:\DOT NET WORKOUTS\ArithemeticOperation\ArithemeticOperation\bin\Debug\net8.0\ArithemeticOperation.exe
+D:\DOT NET WORKOUTS\ArithemeticOperation\ArithemeticOperation\bin\Debug\net8.0\ArithemeticOperation.deps.json
+D:\DOT NET WORKOUTS\ArithemeticOperation\ArithemeticOperation\bin\Debug\net8.0\ArithemeticOperation.runtimeconfig.json
+D:\DOT NET WORKOUTS\ArithemeticOperation\ArithemeticOperation\bin\Debug\net8.0\ArithemeticOperation.dll
+D:\DOT NET WORKOUTS\ArithemeticOperation\ArithemeticOperation\bin\Debug\net8.0\ArithemeticOperation.pdb
+D:\DOT NET WORKOUTS\ArithemeticOperation\ArithemeticOperation\obj\Debug\net8.0\ArithemeticOperation.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET WORKOUTS\ArithemeticOperation\ArithemeticOperation\obj\Debug\net8.0\ArithemeticOperation.AssemblyInfoInputs.cache
+D:\DOT NET WORKOUTS\ArithemeticOperation\ArithemeticOperation\obj\Debug\net8.0\ArithemeticOperation.AssemblyInfo.cs
+D:\DOT NET WORKOUTS\ArithemeticOperation\ArithemeticOperation\obj\Debug\net8.0\ArithemeticOperation.csproj.CoreCompileInputs.cache
+D:\DOT NET WORKOUTS\ArithemeticOperation\ArithemeticOperation\obj\Debug\net8.0\ArithemeticOperation.dll
+D:\DOT NET WORKOUTS\ArithemeticOperation\ArithemeticOperation\obj\Debug\net8.0\refint\ArithemeticOperation.dll
+D:\DOT NET WORKOUTS\ArithemeticOperation\ArithemeticOperation\obj\Debug\net8.0\ArithemeticOperation.pdb
+D:\DOT NET WORKOUTS\ArithemeticOperation\ArithemeticOperation\obj\Debug\net8.0\ArithemeticOperation.genruntimeconfig.cache
+D:\DOT NET WORKOUTS\ArithemeticOperation\ArithemeticOperation\obj\Debug\net8.0\ref\ArithemeticOperation.dll

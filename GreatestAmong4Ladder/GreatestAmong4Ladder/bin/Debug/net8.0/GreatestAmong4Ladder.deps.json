@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GreatestAmong4Ladder/1.0.0": {
+        "runtime": {
+          "GreatestAmong4Ladder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GreatestAmong4Ladder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

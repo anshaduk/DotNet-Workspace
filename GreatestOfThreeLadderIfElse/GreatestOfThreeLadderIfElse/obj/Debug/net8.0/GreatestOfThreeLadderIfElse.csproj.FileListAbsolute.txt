@@ -1,0 +1,14 @@
+D:\DOT NET WORKOUTS\GreatestOfThreeLadderIfElse\GreatestOfThreeLadderIfElse\bin\Debug\net8.0\GreatestOfThreeLadderIfElse.exe
+D:\DOT NET WORKOUTS\GreatestOfThreeLadderIfElse\GreatestOfThreeLadderIfElse\bin\Debug\net8.0\GreatestOfThreeLadderIfElse.deps.json
+D:\DOT NET WORKOUTS\GreatestOfThreeLadderIfElse\GreatestOfThreeLadderIfElse\bin\Debug\net8.0\GreatestOfThreeLadderIfElse.runtimeconfig.json
+D:\DOT NET WORKOUTS\GreatestOfThreeLadderIfElse\GreatestOfThreeLadderIfElse\bin\Debug\net8.0\GreatestOfThreeLadderIfElse.dll
+D:\DOT NET WORKOUTS\GreatestOfThreeLadderIfElse\GreatestOfThreeLadderIfElse\bin\Debug\net8.0\GreatestOfThreeLadderIfElse.pdb
+D:\DOT NET WORKOUTS\GreatestOfThreeLadderIfElse\GreatestOfThreeLadderIfElse\obj\Debug\net8.0\GreatestOfThreeLadderIfElse.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET WORKOUTS\GreatestOfThreeLadderIfElse\GreatestOfThreeLadderIfElse\obj\Debug\net8.0\GreatestOfThreeLadderIfElse.AssemblyInfoInputs.cache
+D:\DOT NET WORKOUTS\GreatestOfThreeLadderIfElse\GreatestOfThreeLadderIfElse\obj\Debug\net8.0\GreatestOfThreeLadderIfElse.AssemblyInfo.cs
+D:\DOT NET WORKOUTS\GreatestOfThreeLadderIfElse\GreatestOfThreeLadderIfElse\obj\Debug\net8.0\GreatestOfThreeLadderIfElse.csproj.CoreCompileInputs.cache
+D:\DOT NET WORKOUTS\GreatestOfThreeLadderIfElse\GreatestOfThreeLadderIfElse\obj\Debug\net8.0\GreatestOfThreeLadderIfElse.dll
+D:\DOT NET WORKOUTS\GreatestOfThreeLadderIfElse\GreatestOfThreeLadderIfElse\obj\Debug\net8.0\refint\GreatestOfThreeLadderIfElse.dll
+D:\DOT NET WORKOUTS\GreatestOfThreeLadderIfElse\GreatestOfThreeLadderIfElse\obj\Debug\net8.0\GreatestOfThreeLadderIfElse.pdb
+D:\DOT NET WORKOUTS\GreatestOfThreeLadderIfElse\GreatestOfThreeLadderIfElse\obj\Debug\net8.0\GreatestOfThreeLadderIfElse.genruntimeconfig.cache
+D:\DOT NET WORKOUTS\GreatestOfThreeLadderIfElse\GreatestOfThreeLadderIfElse\obj\Debug\net8.0\ref\GreatestOfThreeLadderIfElse.dll

@@ -1,0 +1,14 @@
+D:\DOT NET WORKOUTS\SalaryCheckUsingIf\SalaryCheckUsingIf\bin\Debug\net8.0\SalaryCheckUsingIf.exe
+D:\DOT NET WORKOUTS\SalaryCheckUsingIf\SalaryCheckUsingIf\bin\Debug\net8.0\SalaryCheckUsingIf.deps.json
+D:\DOT NET WORKOUTS\SalaryCheckUsingIf\SalaryCheckUsingIf\bin\Debug\net8.0\SalaryCheckUsingIf.runtimeconfig.json
+D:\DOT NET WORKOUTS\SalaryCheckUsingIf\SalaryCheckUsingIf\bin\Debug\net8.0\SalaryCheckUsingIf.dll
+D:\DOT NET WORKOUTS\SalaryCheckUsingIf\SalaryCheckUsingIf\bin\Debug\net8.0\SalaryCheckUsingIf.pdb
+D:\DOT NET WORKOUTS\SalaryCheckUsingIf\SalaryCheckUsingIf\obj\Debug\net8.0\SalaryCheckUsingIf.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET WORKOUTS\SalaryCheckUsingIf\SalaryCheckUsingIf\obj\Debug\net8.0\SalaryCheckUsingIf.AssemblyInfoInputs.cache
+D:\DOT NET WORKOUTS\SalaryCheckUsingIf\SalaryCheckUsingIf\obj\Debug\net8.0\SalaryCheckUsingIf.AssemblyInfo.cs
+D:\DOT NET WORKOUTS\SalaryCheckUsingIf\SalaryCheckUsingIf\obj\Debug\net8.0\SalaryCheckUsingIf.csproj.CoreCompileInputs.cache
+D:\DOT NET WORKOUTS\SalaryCheckUsingIf\SalaryCheckUsingIf\obj\Debug\net8.0\SalaryCheckUsingIf.dll
+D:\DOT NET WORKOUTS\SalaryCheckUsingIf\SalaryCheckUsingIf\obj\Debug\net8.0\refint\SalaryCheckUsingIf.dll
+D:\DOT NET WORKOUTS\SalaryCheckUsingIf\SalaryCheckUsingIf\obj\Debug\net8.0\SalaryCheckUsingIf.pdb
+D:\DOT NET WORKOUTS\SalaryCheckUsingIf\SalaryCheckUsingIf\obj\Debug\net8.0\SalaryCheckUsingIf.genruntimeconfig.cache
+D:\DOT NET WORKOUTS\SalaryCheckUsingIf\SalaryCheckUsingIf\obj\Debug\net8.0\ref\SalaryCheckUsingIf.dll

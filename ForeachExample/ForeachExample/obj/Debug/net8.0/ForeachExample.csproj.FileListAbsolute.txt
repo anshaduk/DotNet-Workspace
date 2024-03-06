@@ -1,0 +1,14 @@
+D:\DOT NET WORKOUTS\ForeachExample\ForeachExample\bin\Debug\net8.0\ForeachExample.exe
+D:\DOT NET WORKOUTS\ForeachExample\ForeachExample\bin\Debug\net8.0\ForeachExample.deps.json
+D:\DOT NET WORKOUTS\ForeachExample\ForeachExample\bin\Debug\net8.0\ForeachExample.runtimeconfig.json
+D:\DOT NET WORKOUTS\ForeachExample\ForeachExample\bin\Debug\net8.0\ForeachExample.dll
+D:\DOT NET WORKOUTS\ForeachExample\ForeachExample\bin\Debug\net8.0\ForeachExample.pdb
+D:\DOT NET WORKOUTS\ForeachExample\ForeachExample\obj\Debug\net8.0\ForeachExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET WORKOUTS\ForeachExample\ForeachExample\obj\Debug\net8.0\ForeachExample.AssemblyInfoInputs.cache
+D:\DOT NET WORKOUTS\ForeachExample\ForeachExample\obj\Debug\net8.0\ForeachExample.AssemblyInfo.cs
+D:\DOT NET WORKOUTS\ForeachExample\ForeachExample\obj\Debug\net8.0\ForeachExample.csproj.CoreCompileInputs.cache
+D:\DOT NET WORKOUTS\ForeachExample\ForeachExample\obj\Debug\net8.0\ForeachExample.dll
+D:\DOT NET WORKOUTS\ForeachExample\ForeachExample\obj\Debug\net8.0\refint\ForeachExample.dll
+D:\DOT NET WORKOUTS\ForeachExample\ForeachExample\obj\Debug\net8.0\ForeachExample.pdb
+D:\DOT NET WORKOUTS\ForeachExample\ForeachExample\obj\Debug\net8.0\ForeachExample.genruntimeconfig.cache
+D:\DOT NET WORKOUTS\ForeachExample\ForeachExample\obj\Debug\net8.0\ref\ForeachExample.dll
