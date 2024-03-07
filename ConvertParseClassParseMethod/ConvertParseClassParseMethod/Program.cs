@@ -16,6 +16,9 @@
 
             var x=Convert.ToInt32(null);
             Console.WriteLine(x);
+
+            var y = int.Parse(null);
+            Console.WriteLine(y);
         }
     }
 }

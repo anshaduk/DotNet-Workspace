@@ -12,3 +12,4 @@ D:\DOT NET WORKOUTS\ConvertParseClassParseMethod\ConvertParseClassParseMethod\ob
 D:\DOT NET WORKOUTS\ConvertParseClassParseMethod\ConvertParseClassParseMethod\obj\Debug\net8.0\ConvertParseClassParseMethod.pdb
 D:\DOT NET WORKOUTS\ConvertParseClassParseMethod\ConvertParseClassParseMethod\obj\Debug\net8.0\ConvertParseClassParseMethod.genruntimeconfig.cache
 D:\DOT NET WORKOUTS\ConvertParseClassParseMethod\ConvertParseClassParseMethod\obj\Debug\net8.0\ref\ConvertParseClassParseMethod.dll
+D:\DOT NET WORKOUTS\ConvertParseClassParseMethod\ConvertParseClassParseMethod\obj\Debug\net8.0\ConvertParseClassParseMethod.sourcelink.json

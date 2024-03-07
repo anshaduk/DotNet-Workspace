@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConvertParseClassParseMethod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef1ea0817ebb4f78bc91b000bcc2d110427dc485")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConvertParseClassParseMethod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConvertParseClassParseMethod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

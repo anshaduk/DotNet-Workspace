@@ -1,0 +1,15 @@
+D:\DOT NET WORKOUTS\FunctionSample\FunctionSample\bin\Debug\net8.0\FunctionSample.exe
+D:\DOT NET WORKOUTS\FunctionSample\FunctionSample\bin\Debug\net8.0\FunctionSample.deps.json
+D:\DOT NET WORKOUTS\FunctionSample\FunctionSample\bin\Debug\net8.0\FunctionSample.runtimeconfig.json
+D:\DOT NET WORKOUTS\FunctionSample\FunctionSample\bin\Debug\net8.0\FunctionSample.dll
+D:\DOT NET WORKOUTS\FunctionSample\FunctionSample\bin\Debug\net8.0\FunctionSample.pdb
+D:\DOT NET WORKOUTS\FunctionSample\FunctionSample\obj\Debug\net8.0\FunctionSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET WORKOUTS\FunctionSample\FunctionSample\obj\Debug\net8.0\FunctionSample.AssemblyInfoInputs.cache
+D:\DOT NET WORKOUTS\FunctionSample\FunctionSample\obj\Debug\net8.0\FunctionSample.AssemblyInfo.cs
+D:\DOT NET WORKOUTS\FunctionSample\FunctionSample\obj\Debug\net8.0\FunctionSample.csproj.CoreCompileInputs.cache
+D:\DOT NET WORKOUTS\FunctionSample\FunctionSample\obj\Debug\net8.0\FunctionSample.sourcelink.json
+D:\DOT NET WORKOUTS\FunctionSample\FunctionSample\obj\Debug\net8.0\FunctionSample.dll
+D:\DOT NET WORKOUTS\FunctionSample\FunctionSample\obj\Debug\net8.0\refint\FunctionSample.dll
+D:\DOT NET WORKOUTS\FunctionSample\FunctionSample\obj\Debug\net8.0\FunctionSample.pdb
+D:\DOT NET WORKOUTS\FunctionSample\FunctionSample\obj\Debug\net8.0\FunctionSample.genruntimeconfig.cache
+D:\DOT NET WORKOUTS\FunctionSample\FunctionSample\obj\Debug\net8.0\ref\FunctionSample.dll

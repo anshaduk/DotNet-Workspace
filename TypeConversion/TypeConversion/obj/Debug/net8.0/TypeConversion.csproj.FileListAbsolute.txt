@@ -12,3 +12,4 @@ D:\DOT NET WORKOUTS\TypeConversion\TypeConversion\obj\Debug\net8.0\refint\TypeCo
 D:\DOT NET WORKOUTS\TypeConversion\TypeConversion\obj\Debug\net8.0\TypeConversion.pdb
 D:\DOT NET WORKOUTS\TypeConversion\TypeConversion\obj\Debug\net8.0\TypeConversion.genruntimeconfig.cache
 D:\DOT NET WORKOUTS\TypeConversion\TypeConversion\obj\Debug\net8.0\ref\TypeConversion.dll
+D:\DOT NET WORKOUTS\TypeConversion\TypeConversion\obj\Debug\net8.0\TypeConversion.sourcelink.json

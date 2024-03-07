@@ -1,0 +1,15 @@
+D:\DOT NET WORKOUTS\ParallelForEach\ParallelForEach\bin\Debug\net8.0\ParallelForEach.exe
+D:\DOT NET WORKOUTS\ParallelForEach\ParallelForEach\bin\Debug\net8.0\ParallelForEach.deps.json
+D:\DOT NET WORKOUTS\ParallelForEach\ParallelForEach\bin\Debug\net8.0\ParallelForEach.runtimeconfig.json
+D:\DOT NET WORKOUTS\ParallelForEach\ParallelForEach\bin\Debug\net8.0\ParallelForEach.dll
+D:\DOT NET WORKOUTS\ParallelForEach\ParallelForEach\bin\Debug\net8.0\ParallelForEach.pdb
+D:\DOT NET WORKOUTS\ParallelForEach\ParallelForEach\obj\Debug\net8.0\ParallelForEach.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET WORKOUTS\ParallelForEach\ParallelForEach\obj\Debug\net8.0\ParallelForEach.AssemblyInfoInputs.cache
+D:\DOT NET WORKOUTS\ParallelForEach\ParallelForEach\obj\Debug\net8.0\ParallelForEach.AssemblyInfo.cs
+D:\DOT NET WORKOUTS\ParallelForEach\ParallelForEach\obj\Debug\net8.0\ParallelForEach.csproj.CoreCompileInputs.cache
+D:\DOT NET WORKOUTS\ParallelForEach\ParallelForEach\obj\Debug\net8.0\ParallelForEach.sourcelink.json
+D:\DOT NET WORKOUTS\ParallelForEach\ParallelForEach\obj\Debug\net8.0\ParallelForEach.dll
+D:\DOT NET WORKOUTS\ParallelForEach\ParallelForEach\obj\Debug\net8.0\refint\ParallelForEach.dll
+D:\DOT NET WORKOUTS\ParallelForEach\ParallelForEach\obj\Debug\net8.0\ParallelForEach.pdb
+D:\DOT NET WORKOUTS\ParallelForEach\ParallelForEach\obj\Debug\net8.0\ParallelForEach.genruntimeconfig.cache
+D:\DOT NET WORKOUTS\ParallelForEach\ParallelForEach\obj\Debug\net8.0\ref\ParallelForEach.dll

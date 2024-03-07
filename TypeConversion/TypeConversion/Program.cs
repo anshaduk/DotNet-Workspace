@@ -28,9 +28,13 @@
             Console.WriteLine(first);
             Console.WriteLine(second);
 
-            String str = "10";
-            int newStr = int.Parse(str);
-            Console.WriteLine(newStr);
+            double third=35.45;
+            second=(int)third;
+            Console.WriteLine(second);
+
+            //String str = "10";
+            //int newStr = int.Parse(str);
+            //Console.WriteLine(newStr);
 
         }
     }
