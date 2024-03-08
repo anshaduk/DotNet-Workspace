@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DOT NET WORKOUTS\\functionWithArgAndWithoutReturn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CEAA69E-BEE2-4AE1-92A5-A2933B66E876}|functionWithArgAndWithoutReturn\\functionWithArgAndWithoutReturn.csproj|d:\\dot net workouts\\functionwithargandwithoutreturn\\functionwithargandwithoutreturn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CEAA69E-BEE2-4AE1-92A5-A2933B66E876}|functionWithArgAndWithoutReturn\\functionWithArgAndWithoutReturn.csproj|solutionrelative:functionwithargandwithoutreturn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DOT NET WORKOUTS\\functionWithArgAndWithoutReturn\\functionWithArgAndWithoutReturn\\Program.cs",
+              "RelativeDocumentMoniker": "functionWithArgAndWithoutReturn\\Program.cs",
+              "ToolTip": "D:\\DOT NET WORKOUTS\\functionWithArgAndWithoutReturn\\functionWithArgAndWithoutReturn\\Program.cs",
+              "RelativeToolTip": "functionWithArgAndWithoutReturn\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:46:06.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

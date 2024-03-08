@@ -1,0 +1,15 @@
+D:\DOT NET WORKOUTS\ArrayListCollections\ArrayListCollections\bin\Debug\net8.0\ArrayListCollections.exe
+D:\DOT NET WORKOUTS\ArrayListCollections\ArrayListCollections\bin\Debug\net8.0\ArrayListCollections.deps.json
+D:\DOT NET WORKOUTS\ArrayListCollections\ArrayListCollections\bin\Debug\net8.0\ArrayListCollections.runtimeconfig.json
+D:\DOT NET WORKOUTS\ArrayListCollections\ArrayListCollections\bin\Debug\net8.0\ArrayListCollections.dll
+D:\DOT NET WORKOUTS\ArrayListCollections\ArrayListCollections\bin\Debug\net8.0\ArrayListCollections.pdb
+D:\DOT NET WORKOUTS\ArrayListCollections\ArrayListCollections\obj\Debug\net8.0\ArrayListCollections.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET WORKOUTS\ArrayListCollections\ArrayListCollections\obj\Debug\net8.0\ArrayListCollections.AssemblyInfoInputs.cache
+D:\DOT NET WORKOUTS\ArrayListCollections\ArrayListCollections\obj\Debug\net8.0\ArrayListCollections.AssemblyInfo.cs
+D:\DOT NET WORKOUTS\ArrayListCollections\ArrayListCollections\obj\Debug\net8.0\ArrayListCollections.csproj.CoreCompileInputs.cache
+D:\DOT NET WORKOUTS\ArrayListCollections\ArrayListCollections\obj\Debug\net8.0\ArrayListCollections.sourcelink.json
+D:\DOT NET WORKOUTS\ArrayListCollections\ArrayListCollections\obj\Debug\net8.0\ArrayListCollections.dll
+D:\DOT NET WORKOUTS\ArrayListCollections\ArrayListCollections\obj\Debug\net8.0\refint\ArrayListCollections.dll
+D:\DOT NET WORKOUTS\ArrayListCollections\ArrayListCollections\obj\Debug\net8.0\ArrayListCollections.pdb
+D:\DOT NET WORKOUTS\ArrayListCollections\ArrayListCollections\obj\Debug\net8.0\ArrayListCollections.genruntimeconfig.cache
+D:\DOT NET WORKOUTS\ArrayListCollections\ArrayListCollections\obj\Debug\net8.0\ref\ArrayListCollections.dll

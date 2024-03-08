@@ -1,0 +1,15 @@
+D:\DOT NET WORKOUTS\CallByParameterArray\CallByParameterArray\bin\Debug\net8.0\CallByParameterArray.exe
+D:\DOT NET WORKOUTS\CallByParameterArray\CallByParameterArray\bin\Debug\net8.0\CallByParameterArray.deps.json
+D:\DOT NET WORKOUTS\CallByParameterArray\CallByParameterArray\bin\Debug\net8.0\CallByParameterArray.runtimeconfig.json
+D:\DOT NET WORKOUTS\CallByParameterArray\CallByParameterArray\bin\Debug\net8.0\CallByParameterArray.dll
+D:\DOT NET WORKOUTS\CallByParameterArray\CallByParameterArray\bin\Debug\net8.0\CallByParameterArray.pdb
+D:\DOT NET WORKOUTS\CallByParameterArray\CallByParameterArray\obj\Debug\net8.0\CallByParameterArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET WORKOUTS\CallByParameterArray\CallByParameterArray\obj\Debug\net8.0\CallByParameterArray.AssemblyInfoInputs.cache
+D:\DOT NET WORKOUTS\CallByParameterArray\CallByParameterArray\obj\Debug\net8.0\CallByParameterArray.AssemblyInfo.cs
+D:\DOT NET WORKOUTS\CallByParameterArray\CallByParameterArray\obj\Debug\net8.0\CallByParameterArray.csproj.CoreCompileInputs.cache
+D:\DOT NET WORKOUTS\CallByParameterArray\CallByParameterArray\obj\Debug\net8.0\CallByParameterArray.sourcelink.json
+D:\DOT NET WORKOUTS\CallByParameterArray\CallByParameterArray\obj\Debug\net8.0\CallByParameterArray.dll
+D:\DOT NET WORKOUTS\CallByParameterArray\CallByParameterArray\obj\Debug\net8.0\refint\CallByParameterArray.dll
+D:\DOT NET WORKOUTS\CallByParameterArray\CallByParameterArray\obj\Debug\net8.0\CallByParameterArray.pdb
+D:\DOT NET WORKOUTS\CallByParameterArray\CallByParameterArray\obj\Debug\net8.0\CallByParameterArray.genruntimeconfig.cache
+D:\DOT NET WORKOUTS\CallByParameterArray\CallByParameterArray\obj\Debug\net8.0\ref\CallByParameterArray.dll

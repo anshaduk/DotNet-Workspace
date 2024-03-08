@@ -1,0 +1,15 @@
+D:\DOT NET WORKOUTS\functionWithoutArgReturnType\functionWithoutArgReturnType\bin\Debug\net8.0\functionWithoutArgReturnType.exe
+D:\DOT NET WORKOUTS\functionWithoutArgReturnType\functionWithoutArgReturnType\bin\Debug\net8.0\functionWithoutArgReturnType.deps.json
+D:\DOT NET WORKOUTS\functionWithoutArgReturnType\functionWithoutArgReturnType\bin\Debug\net8.0\functionWithoutArgReturnType.runtimeconfig.json
+D:\DOT NET WORKOUTS\functionWithoutArgReturnType\functionWithoutArgReturnType\bin\Debug\net8.0\functionWithoutArgReturnType.dll
+D:\DOT NET WORKOUTS\functionWithoutArgReturnType\functionWithoutArgReturnType\bin\Debug\net8.0\functionWithoutArgReturnType.pdb
+D:\DOT NET WORKOUTS\functionWithoutArgReturnType\functionWithoutArgReturnType\obj\Debug\net8.0\functionWithoutArgReturnType.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET WORKOUTS\functionWithoutArgReturnType\functionWithoutArgReturnType\obj\Debug\net8.0\functionWithoutArgReturnType.AssemblyInfoInputs.cache
+D:\DOT NET WORKOUTS\functionWithoutArgReturnType\functionWithoutArgReturnType\obj\Debug\net8.0\functionWithoutArgReturnType.AssemblyInfo.cs
+D:\DOT NET WORKOUTS\functionWithoutArgReturnType\functionWithoutArgReturnType\obj\Debug\net8.0\functionWithoutArgReturnType.csproj.CoreCompileInputs.cache
+D:\DOT NET WORKOUTS\functionWithoutArgReturnType\functionWithoutArgReturnType\obj\Debug\net8.0\functionWithoutArgReturnType.sourcelink.json
+D:\DOT NET WORKOUTS\functionWithoutArgReturnType\functionWithoutArgReturnType\obj\Debug\net8.0\functionWithoutArgReturnType.dll
+D:\DOT NET WORKOUTS\functionWithoutArgReturnType\functionWithoutArgReturnType\obj\Debug\net8.0\refint\functionWithoutArgReturnType.dll
+D:\DOT NET WORKOUTS\functionWithoutArgReturnType\functionWithoutArgReturnType\obj\Debug\net8.0\functionWithoutArgReturnType.pdb
+D:\DOT NET WORKOUTS\functionWithoutArgReturnType\functionWithoutArgReturnType\obj\Debug\net8.0\functionWithoutArgReturnType.genruntimeconfig.cache
+D:\DOT NET WORKOUTS\functionWithoutArgReturnType\functionWithoutArgReturnType\obj\Debug\net8.0\ref\functionWithoutArgReturnType.dll

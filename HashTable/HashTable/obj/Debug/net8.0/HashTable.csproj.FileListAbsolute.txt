@@ -1,0 +1,15 @@
+D:\DOT NET WORKOUTS\HashTable\HashTable\obj\Debug\net8.0\HashTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET WORKOUTS\HashTable\HashTable\obj\Debug\net8.0\HashTable.AssemblyInfoInputs.cache
+D:\DOT NET WORKOUTS\HashTable\HashTable\obj\Debug\net8.0\HashTable.AssemblyInfo.cs
+D:\DOT NET WORKOUTS\HashTable\HashTable\obj\Debug\net8.0\HashTable.csproj.CoreCompileInputs.cache
+D:\DOT NET WORKOUTS\HashTable\HashTable\obj\Debug\net8.0\HashTable.sourcelink.json
+D:\DOT NET WORKOUTS\HashTable\HashTable\bin\Debug\net8.0\HashTable.exe
+D:\DOT NET WORKOUTS\HashTable\HashTable\bin\Debug\net8.0\HashTable.deps.json
+D:\DOT NET WORKOUTS\HashTable\HashTable\bin\Debug\net8.0\HashTable.runtimeconfig.json
+D:\DOT NET WORKOUTS\HashTable\HashTable\bin\Debug\net8.0\HashTable.dll
+D:\DOT NET WORKOUTS\HashTable\HashTable\bin\Debug\net8.0\HashTable.pdb
+D:\DOT NET WORKOUTS\HashTable\HashTable\obj\Debug\net8.0\HashTable.dll
+D:\DOT NET WORKOUTS\HashTable\HashTable\obj\Debug\net8.0\refint\HashTable.dll
+D:\DOT NET WORKOUTS\HashTable\HashTable\obj\Debug\net8.0\HashTable.pdb
+D:\DOT NET WORKOUTS\HashTable\HashTable\obj\Debug\net8.0\HashTable.genruntimeconfig.cache
+D:\DOT NET WORKOUTS\HashTable\HashTable\obj\Debug\net8.0\ref\HashTable.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DOT NET WORKOUTS\\PassByReference\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52BCFD05-DC39-4B0F-BF4C-406B0DD23FA5}|PassByReference\\PassByReference.csproj|d:\\dot net workouts\\passbyreference\\passbyreference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52BCFD05-DC39-4B0F-BF4C-406B0DD23FA5}|PassByReference\\PassByReference.csproj|solutionrelative:passbyreference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DOT NET WORKOUTS\\PassByReference\\PassByReference\\Program.cs",
+              "RelativeDocumentMoniker": "PassByReference\\Program.cs",
+              "ToolTip": "D:\\DOT NET WORKOUTS\\PassByReference\\PassByReference\\Program.cs",
+              "RelativeToolTip": "PassByReference\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA8wAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T06:58:02.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

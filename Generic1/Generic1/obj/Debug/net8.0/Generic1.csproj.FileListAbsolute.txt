@@ -1,0 +1,15 @@
+D:\DOT NET WORKOUTS\Generic1\Generic1\bin\Debug\net8.0\Generic1.exe
+D:\DOT NET WORKOUTS\Generic1\Generic1\bin\Debug\net8.0\Generic1.deps.json
+D:\DOT NET WORKOUTS\Generic1\Generic1\bin\Debug\net8.0\Generic1.runtimeconfig.json
+D:\DOT NET WORKOUTS\Generic1\Generic1\bin\Debug\net8.0\Generic1.dll
+D:\DOT NET WORKOUTS\Generic1\Generic1\bin\Debug\net8.0\Generic1.pdb
+D:\DOT NET WORKOUTS\Generic1\Generic1\obj\Debug\net8.0\Generic1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET WORKOUTS\Generic1\Generic1\obj\Debug\net8.0\Generic1.AssemblyInfoInputs.cache
+D:\DOT NET WORKOUTS\Generic1\Generic1\obj\Debug\net8.0\Generic1.AssemblyInfo.cs
+D:\DOT NET WORKOUTS\Generic1\Generic1\obj\Debug\net8.0\Generic1.csproj.CoreCompileInputs.cache
+D:\DOT NET WORKOUTS\Generic1\Generic1\obj\Debug\net8.0\Generic1.sourcelink.json
+D:\DOT NET WORKOUTS\Generic1\Generic1\obj\Debug\net8.0\Generic1.dll
+D:\DOT NET WORKOUTS\Generic1\Generic1\obj\Debug\net8.0\refint\Generic1.dll
+D:\DOT NET WORKOUTS\Generic1\Generic1\obj\Debug\net8.0\Generic1.pdb
+D:\DOT NET WORKOUTS\Generic1\Generic1\obj\Debug\net8.0\Generic1.genruntimeconfig.cache
+D:\DOT NET WORKOUTS\Generic1\Generic1\obj\Debug\net8.0\ref\Generic1.dll

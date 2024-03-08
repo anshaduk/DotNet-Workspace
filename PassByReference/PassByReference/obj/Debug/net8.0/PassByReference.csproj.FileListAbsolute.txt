@@ -1,0 +1,15 @@
+D:\DOT NET WORKOUTS\PassByReference\PassByReference\bin\Debug\net8.0\PassByReference.exe
+D:\DOT NET WORKOUTS\PassByReference\PassByReference\bin\Debug\net8.0\PassByReference.deps.json
+D:\DOT NET WORKOUTS\PassByReference\PassByReference\bin\Debug\net8.0\PassByReference.runtimeconfig.json
+D:\DOT NET WORKOUTS\PassByReference\PassByReference\bin\Debug\net8.0\PassByReference.dll
+D:\DOT NET WORKOUTS\PassByReference\PassByReference\bin\Debug\net8.0\PassByReference.pdb
+D:\DOT NET WORKOUTS\PassByReference\PassByReference\obj\Debug\net8.0\PassByReference.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET WORKOUTS\PassByReference\PassByReference\obj\Debug\net8.0\PassByReference.AssemblyInfoInputs.cache
+D:\DOT NET WORKOUTS\PassByReference\PassByReference\obj\Debug\net8.0\PassByReference.AssemblyInfo.cs
+D:\DOT NET WORKOUTS\PassByReference\PassByReference\obj\Debug\net8.0\PassByReference.csproj.CoreCompileInputs.cache
+D:\DOT NET WORKOUTS\PassByReference\PassByReference\obj\Debug\net8.0\PassByReference.sourcelink.json
+D:\DOT NET WORKOUTS\PassByReference\PassByReference\obj\Debug\net8.0\PassByReference.dll
+D:\DOT NET WORKOUTS\PassByReference\PassByReference\obj\Debug\net8.0\refint\PassByReference.dll
+D:\DOT NET WORKOUTS\PassByReference\PassByReference\obj\Debug\net8.0\PassByReference.pdb
+D:\DOT NET WORKOUTS\PassByReference\PassByReference\obj\Debug\net8.0\PassByReference.genruntimeconfig.cache
+D:\DOT NET WORKOUTS\PassByReference\PassByReference\obj\Debug\net8.0\ref\PassByReference.dll

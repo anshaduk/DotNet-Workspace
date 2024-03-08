@@ -1,0 +1,15 @@
+D:\DOT NET WORKOUTS\functionWithArgAndWithoutReturn\functionWithArgAndWithoutReturn\bin\Debug\net8.0\functionWithArgAndWithoutReturn.exe
+D:\DOT NET WORKOUTS\functionWithArgAndWithoutReturn\functionWithArgAndWithoutReturn\bin\Debug\net8.0\functionWithArgAndWithoutReturn.deps.json
+D:\DOT NET WORKOUTS\functionWithArgAndWithoutReturn\functionWithArgAndWithoutReturn\bin\Debug\net8.0\functionWithArgAndWithoutReturn.runtimeconfig.json
+D:\DOT NET WORKOUTS\functionWithArgAndWithoutReturn\functionWithArgAndWithoutReturn\bin\Debug\net8.0\functionWithArgAndWithoutReturn.dll
+D:\DOT NET WORKOUTS\functionWithArgAndWithoutReturn\functionWithArgAndWithoutReturn\bin\Debug\net8.0\functionWithArgAndWithoutReturn.pdb
+D:\DOT NET WORKOUTS\functionWithArgAndWithoutReturn\functionWithArgAndWithoutReturn\obj\Debug\net8.0\functionWithArgAndWithoutReturn.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET WORKOUTS\functionWithArgAndWithoutReturn\functionWithArgAndWithoutReturn\obj\Debug\net8.0\functionWithArgAndWithoutReturn.AssemblyInfoInputs.cache
+D:\DOT NET WORKOUTS\functionWithArgAndWithoutReturn\functionWithArgAndWithoutReturn\obj\Debug\net8.0\functionWithArgAndWithoutReturn.AssemblyInfo.cs
+D:\DOT NET WORKOUTS\functionWithArgAndWithoutReturn\functionWithArgAndWithoutReturn\obj\Debug\net8.0\functionWithArgAndWithoutReturn.csproj.CoreCompileInputs.cache
+D:\DOT NET WORKOUTS\functionWithArgAndWithoutReturn\functionWithArgAndWithoutReturn\obj\Debug\net8.0\functionWithArgAndWithoutReturn.sourcelink.json
+D:\DOT NET WORKOUTS\functionWithArgAndWithoutReturn\functionWithArgAndWithoutReturn\obj\Debug\net8.0\functionWithArgAndWithoutReturn.dll
+D:\DOT NET WORKOUTS\functionWithArgAndWithoutReturn\functionWithArgAndWithoutReturn\obj\Debug\net8.0\refint\functionWithArgAndWithoutReturn.dll
+D:\DOT NET WORKOUTS\functionWithArgAndWithoutReturn\functionWithArgAndWithoutReturn\obj\Debug\net8.0\functionWithArgAndWithoutReturn.pdb
+D:\DOT NET WORKOUTS\functionWithArgAndWithoutReturn\functionWithArgAndWithoutReturn\obj\Debug\net8.0\functionWithArgAndWithoutReturn.genruntimeconfig.cache
+D:\DOT NET WORKOUTS\functionWithArgAndWithoutReturn\functionWithArgAndWithoutReturn\obj\Debug\net8.0\ref\functionWithArgAndWithoutReturn.dll

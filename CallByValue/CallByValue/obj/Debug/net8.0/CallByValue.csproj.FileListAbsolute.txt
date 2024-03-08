@@ -1,0 +1,15 @@
+D:\DOT NET WORKOUTS\CallByValue\CallByValue\bin\Debug\net8.0\CallByValue.exe
+D:\DOT NET WORKOUTS\CallByValue\CallByValue\bin\Debug\net8.0\CallByValue.deps.json
+D:\DOT NET WORKOUTS\CallByValue\CallByValue\bin\Debug\net8.0\CallByValue.runtimeconfig.json
+D:\DOT NET WORKOUTS\CallByValue\CallByValue\bin\Debug\net8.0\CallByValue.dll
+D:\DOT NET WORKOUTS\CallByValue\CallByValue\bin\Debug\net8.0\CallByValue.pdb
+D:\DOT NET WORKOUTS\CallByValue\CallByValue\obj\Debug\net8.0\CallByValue.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET WORKOUTS\CallByValue\CallByValue\obj\Debug\net8.0\CallByValue.AssemblyInfoInputs.cache
+D:\DOT NET WORKOUTS\CallByValue\CallByValue\obj\Debug\net8.0\CallByValue.AssemblyInfo.cs
+D:\DOT NET WORKOUTS\CallByValue\CallByValue\obj\Debug\net8.0\CallByValue.csproj.CoreCompileInputs.cache
+D:\DOT NET WORKOUTS\CallByValue\CallByValue\obj\Debug\net8.0\CallByValue.sourcelink.json
+D:\DOT NET WORKOUTS\CallByValue\CallByValue\obj\Debug\net8.0\CallByValue.dll
+D:\DOT NET WORKOUTS\CallByValue\CallByValue\obj\Debug\net8.0\refint\CallByValue.dll
+D:\DOT NET WORKOUTS\CallByValue\CallByValue\obj\Debug\net8.0\CallByValue.pdb
+D:\DOT NET WORKOUTS\CallByValue\CallByValue\obj\Debug\net8.0\CallByValue.genruntimeconfig.cache
+D:\DOT NET WORKOUTS\CallByValue\CallByValue\obj\Debug\net8.0\ref\CallByValue.dll

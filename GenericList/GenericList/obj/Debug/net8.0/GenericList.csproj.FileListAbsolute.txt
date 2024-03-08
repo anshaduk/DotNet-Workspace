@@ -1,0 +1,15 @@
+D:\DOT NET WORKOUTS\GenericList\GenericList\obj\Debug\net8.0\GenericList.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET WORKOUTS\GenericList\GenericList\obj\Debug\net8.0\GenericList.AssemblyInfoInputs.cache
+D:\DOT NET WORKOUTS\GenericList\GenericList\obj\Debug\net8.0\GenericList.AssemblyInfo.cs
+D:\DOT NET WORKOUTS\GenericList\GenericList\obj\Debug\net8.0\GenericList.csproj.CoreCompileInputs.cache
+D:\DOT NET WORKOUTS\GenericList\GenericList\obj\Debug\net8.0\GenericList.sourcelink.json
+D:\DOT NET WORKOUTS\GenericList\GenericList\bin\Debug\net8.0\GenericList.exe
+D:\DOT NET WORKOUTS\GenericList\GenericList\bin\Debug\net8.0\GenericList.deps.json
+D:\DOT NET WORKOUTS\GenericList\GenericList\bin\Debug\net8.0\GenericList.runtimeconfig.json
+D:\DOT NET WORKOUTS\GenericList\GenericList\bin\Debug\net8.0\GenericList.dll
+D:\DOT NET WORKOUTS\GenericList\GenericList\bin\Debug\net8.0\GenericList.pdb
+D:\DOT NET WORKOUTS\GenericList\GenericList\obj\Debug\net8.0\GenericList.dll
+D:\DOT NET WORKOUTS\GenericList\GenericList\obj\Debug\net8.0\refint\GenericList.dll
+D:\DOT NET WORKOUTS\GenericList\GenericList\obj\Debug\net8.0\GenericList.pdb
+D:\DOT NET WORKOUTS\GenericList\GenericList\obj\Debug\net8.0\GenericList.genruntimeconfig.cache
+D:\DOT NET WORKOUTS\GenericList\GenericList\obj\Debug\net8.0\ref\GenericList.dll

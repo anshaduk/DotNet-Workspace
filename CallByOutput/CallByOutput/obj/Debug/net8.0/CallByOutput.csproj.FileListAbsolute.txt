@@ -1,0 +1,15 @@
+D:\DOT NET WORKOUTS\CallByOutput\CallByOutput\bin\Debug\net8.0\CallByOutput.exe
+D:\DOT NET WORKOUTS\CallByOutput\CallByOutput\bin\Debug\net8.0\CallByOutput.deps.json
+D:\DOT NET WORKOUTS\CallByOutput\CallByOutput\bin\Debug\net8.0\CallByOutput.runtimeconfig.json
+D:\DOT NET WORKOUTS\CallByOutput\CallByOutput\bin\Debug\net8.0\CallByOutput.dll
+D:\DOT NET WORKOUTS\CallByOutput\CallByOutput\bin\Debug\net8.0\CallByOutput.pdb
+D:\DOT NET WORKOUTS\CallByOutput\CallByOutput\obj\Debug\net8.0\CallByOutput.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET WORKOUTS\CallByOutput\CallByOutput\obj\Debug\net8.0\CallByOutput.AssemblyInfoInputs.cache
+D:\DOT NET WORKOUTS\CallByOutput\CallByOutput\obj\Debug\net8.0\CallByOutput.AssemblyInfo.cs
+D:\DOT NET WORKOUTS\CallByOutput\CallByOutput\obj\Debug\net8.0\CallByOutput.csproj.CoreCompileInputs.cache
+D:\DOT NET WORKOUTS\CallByOutput\CallByOutput\obj\Debug\net8.0\CallByOutput.sourcelink.json
+D:\DOT NET WORKOUTS\CallByOutput\CallByOutput\obj\Debug\net8.0\CallByOutput.dll
+D:\DOT NET WORKOUTS\CallByOutput\CallByOutput\obj\Debug\net8.0\refint\CallByOutput.dll
+D:\DOT NET WORKOUTS\CallByOutput\CallByOutput\obj\Debug\net8.0\CallByOutput.pdb
+D:\DOT NET WORKOUTS\CallByOutput\CallByOutput\obj\Debug\net8.0\CallByOutput.genruntimeconfig.cache
+D:\DOT NET WORKOUTS\CallByOutput\CallByOutput\obj\Debug\net8.0\ref\CallByOutput.dll
